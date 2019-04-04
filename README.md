@@ -1,5 +1,6 @@
-# Final Project for IT 125 (Using SQL and SQL Server), Winter 2019
+# Final Project for IT 125 (Using SQL and SQL Server)
 ### Group project with Keith Chirayus, Megan Laine, and Rita Yatina
+### March 2019
 
 _Description_: A sample database for a small medical office.
 
